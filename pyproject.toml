@@ -6,7 +6,7 @@ requires-python = ">=3.12,<3.13"
 dependencies = [
     "numpy>=1.26,<2",
     "matplotlib>=3.9,<4",
-    "pillow>=10.4,<13",
+    "pillow>=10.4,<14",
     "python-dateutil>=2.9,<3",
     "tornado>=6.4,<7",
 ]
